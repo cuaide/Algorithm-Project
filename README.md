@@ -1,3 +1,4 @@
+
 # Algorithm-Project
 ----------------------------------------
 # Graph Algorithms – DFS, BFS, Topological Sort, SCC
@@ -46,3 +47,9 @@ This repo is intended as both a learning resource and a base for visualization (
 - **Key idea**:
   - Use **a stack**
   - Go as **deep as possible** before backtracking
+    
+### 3. Topological Sort(Directed Acyclic Graph)
+- **Key Idea:**
+  - perforemed using **DFS finish times**
+  - Nodes are sorted in **decresing order of finishing time**
+  - only works on **DAG(Directed Acyclic Graph)**
