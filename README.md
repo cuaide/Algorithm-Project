@@ -53,3 +53,9 @@ This repo is intended as both a learning resource and a base for visualization (
   - perforemed using **DFS finish times**
   - Nodes are sorted in **decresing order of finishing time**
   - only works on **DAG(Directed Acyclic Graph)**
+### 4. SCC (Strongly Connected Components)
+
+-**Key Idea:**
+  - Based on **DFS + reversed graph**
+  - A group of nodes where **every node can reach every other node**
+  
