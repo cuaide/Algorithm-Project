@@ -58,4 +58,12 @@ A Python project for exploring classic graph algorithms:
 - **Key Idea:**
   - Based on **DFS + reversed graph**
   - A group of nodes where **every node can reach every other node**
+
+  ----------------------------------------
   
+## Project Contriubution
+- **Nicholas Lexiene Laksamana**:BFS,DFS,Directed edges(graph_model.py),zoom UI(graph_view.py)
+- **Juhyun Lee**:Topological sort,SCC(graph_model.py),edge-type display(controller.py)
+- **Ngo Thanh Dat**:Main window,control logic,node animation(controller.py)
+- **JinWook Kwon**:PPT preparation and Documentation, Project testing
+- **Trinh Van Quan**: Visuals and Style for the UI (graphics_items.py, ui_theme.py)
