@@ -17,10 +17,10 @@ This repo is intended as both a learning resource and a base for visualization (
 
 - **Directed / Undirected graphs**
 - **BFS**:
-  - level-order traversal
+  - Level-order traversal
   - Report traversal order(visit order)
 - **DFS**:
-  - Depth-order traversal
+  - Depth-first traversal order
   - Report traversal order(visit order) 
   - Edge types (tree / back / forward / cross edge)
 - **Topological Sort**:
@@ -30,8 +30,7 @@ This repo is intended as both a learning resource and a base for visualization (
   - Report traversal order(Reverse the finishing time)
 - **SCC (Strongly Connected Components)**:
   - Groups nodes that are mutually reachable
-  - Implemented using an SCC algorithm (e.g. Kosaraju)
-
+  - Implemented using an SCC algorithms
 
 ---
 
