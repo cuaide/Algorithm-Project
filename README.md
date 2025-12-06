@@ -2,16 +2,14 @@
 ----------------------------------------
 # Graph Algorithms – DFS, BFS, Topological Sort, SCC
 
-A small Python project for exploring classic graph algorithms:
+A Python project for exploring classic graph algorithms:
 
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS) + edge classification
 - Topological Sort (for DAGs)
-- Strongly Connected Components (SCCs, e.g. Kosaraju)
+- Strongly Connected Components (SCCs)
 
 This repo is intended as both a learning resource and a base for visualization (UI) of graph traversal steps.
-
-> Note: Some comments and docs are written in English and Korean together, since this project was made while studying algorithms.
 
 ---
 
