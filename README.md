@@ -10,8 +10,6 @@ A Python project for exploring classic graph algorithms:
 - Topological Sort (for DAGs) + edge classification
 - Strongly Connected Components (SCCs)
 
-This repo is intended as both a learning resource and a base for visualization (UI) of graph traversal steps.
-
 ---
 
 ## Features
