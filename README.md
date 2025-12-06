@@ -38,7 +38,12 @@ This repo is intended as both a learning resource and a base for visualization (
 
 ### 1. BFS (Breadth-First Search)
 
-  
 - **Key idea**:
   - Use a **queue**
   - Traverse the graph level by level
+### 2. DFS(Depth-First Search)
+
+- **Key idea**:
+- Use **recursion or a stack**
+- Go as **deep as possible** before backtracking
+- 
