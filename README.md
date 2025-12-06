@@ -67,3 +67,6 @@ A Python project for exploring classic graph algorithms:
 - **Ngo Thanh Dat**:Main window,control logic,node animation(controller.py)
 - **JinWook Kwon**:PPT preparation and Documentation, Project testing
 - **Trinh Van Quan**: Visuals and Style for the UI (graphics_items.py, ui_theme.py)
+
+## Development Time 
+November 16, 2025 – December 7, 2025
