@@ -21,7 +21,7 @@ This repo is intended as both a learning resource and a base for visualization (
   - Level-order traversal
   - Report traversal order(visit order)
 - **DFS**:
-  - Depth-first traversal order
+  - Depth-first order traversal
   - Report traversal order(visit order) 
   - Edge types (tree / back / forward / cross edge)
 - **Topological Sort**:
