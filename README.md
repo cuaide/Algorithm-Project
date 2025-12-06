@@ -44,6 +44,5 @@ This repo is intended as both a learning resource and a base for visualization (
 ### 2. DFS(Depth-First Search)
 
 - **Key idea**:
-- Use **recursion or a stack**
-- Go as **deep as possible** before backtracking
-- 
+ - Use **recursion or a stack**
+ - Go as **deep as possible** before backtracking
